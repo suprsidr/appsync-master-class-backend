@@ -1,0 +1,25 @@
+{
+  "name": "appsync-master-class-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Backend for appsync mater class",
+  "main": "index.js",
+  "scripts": {
+    "sls": "sls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprsidr/appsync-master-class-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suprsidr/appsync-master-class-backend/issues"
+  },
+  "homepage": "https://github.com/suprsidr/appsync-master-class-backend#readme",
+  "devDependencies": {
+    "serverless": "2.4.0",
+    "serverless-appsync-plugin": "^1.4.0"
+  }
+}
